@@ -1,4 +1,4 @@
-## Hi there, I'm Marcos [linkedin] 👋
+## Hi there, I'm [Marcos] 👋
 
 ### I'm a student of Web and Mobile Development!!
 
@@ -34,5 +34,6 @@
 
   <img align="left" alt="Marcos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarcosVel&show_icons=true&hide_border=true&theme=blue-green" />
 
+[Marcos]: https://www.linkedin.com/in/marcosveloso99/
 [linkedin]: https://www.linkedin.com/in/marcosveloso99/
 [instagram]: https://www.instagram.com/marcos_veloso21/
