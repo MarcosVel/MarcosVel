@@ -30,8 +30,11 @@
 
 <br />
 <br />
+<br />
 
 <img align="left" alt="Marcos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarcosVel&show_icons=true&hide_border=true&theme=blue-green" />
+
+<br />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVel&layout=compact" style="max-width:100%;">
 
