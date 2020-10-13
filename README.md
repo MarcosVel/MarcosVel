@@ -33,6 +33,8 @@
 
 <img align="left" alt="Marcos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarcosVel&show_icons=true&hide_border=true&theme=blue-green" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosVel&layout=compact" style="max-width:100%;">
+
 [Marcos]: https://www.linkedin.com/in/marcosveloso99/
 [linkedin]: https://www.linkedin.com/in/marcosveloso99/
 [instagram]: https://www.instagram.com/marcos_veloso21/
