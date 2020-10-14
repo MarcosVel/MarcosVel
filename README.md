@@ -2,7 +2,6 @@
 
 ### I'm a student of Web and Mobile Development!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
 - 🌱 I’m currently learning React ⚛️
 - 🎯 I’m looking to learn more each day
 - 🥅 2020 Goals: Learn more about React and publish an App coded in React Native
