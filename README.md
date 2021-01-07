@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning React ⚛️
 - 🎯 I’m looking to learn more each day
-- 🥅 2020 Goals: Learn more about React and publish an App coded in React Native
-- ⚡ Fun fact: I love to play Rainbow Six Siege
+- 🥅 2021 Goals: Learn more about React and publish an App coded in React Native
 
 ### Connect with me:
 
