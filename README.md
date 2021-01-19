@@ -36,7 +36,7 @@
 <br />
 <br />
 
-<img align="left" alt="Marcos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarcosVel&show_icons=true&hide_border=true&theme=dracula" />
+<img align="left" alt="Marcos GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarcosVel&show_icons=true&hide_border=true&theme=blue-green" />
 
 <br />
 <br />
