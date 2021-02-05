@@ -1,4 +1,5 @@
 ## 👨🏻‍💻 Hi there, I'm [Marcos] 👋
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="pt_BR" data-type="horizontal" data-theme="dark" data-vanity="marcosveloso99"><a class="LI-simple-link" href='https://br.linkedin.com/in/marcosveloso99?trk=profile-badge'>Marcos Veloso</a></div>
 
 ### I'm a student of Web and Mobile Development!!
 
@@ -53,3 +54,5 @@
 [Marcos]: https://www.linkedin.com/in/marcosveloso99/
 [linkedin]: https://www.linkedin.com/in/marcosveloso99/
 [instagram]: https://www.instagram.com/marcos_veloso21/
+
+<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
