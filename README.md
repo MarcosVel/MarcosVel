@@ -2,7 +2,7 @@
 
 ### I'm a student of Web and Mobile Development!!
 
-- 🌱 I’m currently learning React ⚛️
+- 🌱 I’m currently learning React ⚛️ e C Sharp #️⃣
 - 🎯 I’m looking to learn more each day
 - 🥅 2021 Goals: Learn more about React and publish an App coded in React Native
 
