@@ -2,6 +2,7 @@
 
 ### I'm a student of Web and Mobile Development!!
 
+- 📚 Pursuing post-graduate degree in Data Science and Machine Learning
 - 🌱 I’m currently learning ReactJS and Native ⚛️
 - 🎯 I’m looking to learn more each day
 - 🥅 2022 Goals: Learn more about React and publish an App coded in React Native
