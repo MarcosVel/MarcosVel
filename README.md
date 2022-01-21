@@ -1,10 +1,10 @@
 ## 👨🏻‍💻 Hi there, I'm [Marcos] 👋
 
-### I'm a student of Web and Mobile Development!!
+### I'm a student of ReactJS and Native ⚛️
 
 - 📚 Pursuing post-graduate degree in Data Science and Machine Learning
-- 🌱 I’m currently learning ReactJS and Native ⚛️
-- 🎯 I’m looking to learn more each day
+- 👨🏼‍💻 Front-end Engineer at LOUD💚DROPULL and Full Stack at Cresça Mais
+- 🎯 Looking to learn more each day
 - 🥅 2022 Goals: Learn more about React and publish an App coded in React Native
 
 ### Connect with me:
