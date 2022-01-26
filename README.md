@@ -2,8 +2,8 @@
 
 ### I'm a student of ReactJS and Native ⚛️
 
-- 🎒 Graduated in Systems Analysis and Development
-- 📚 Pursuing post-graduate degree in Data Science and Machine Learning
+- 📚 Graduated in Systems Analysis and Development
+- 🎒 Pursuing post-graduate degree in Data Science and Machine Learning
 - 👨🏼‍💻 Front-end Engineer at LOUD💚DROPULL and Full Stack at Cresça Mais
 - 🎯 Looking to learn more about React JS and Redux
 - 🥅 2022 Goals: Become a mid-level developer and publish an App coded with React Native
