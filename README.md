@@ -4,9 +4,9 @@
 
 - 🎓 BTech Degree in Systems Analysis and Development
 - 📚 Pursuing Postgraduate Degree in Data Science and Machine Learning
-- 👨🏼‍💻 Front-end Engineer at LOUD💚DROPULL and Full Stack at Cresça Mais
-- 🎯 Looking to learn more about React JS and Redux
-- 🥅 2022 Goals: Become a mid-level developer and publish an App coded with React Native
+- 👨🏼‍💻 Mobile Front-end Engineer at hygia saúde
+- 🎯 Looking to learn more about React Native
+- 🥅 2022 Goals: <s>Become a mid-level developer</s> and publish an App
 
 ### Connect with me:
 
