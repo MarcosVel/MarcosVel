@@ -6,7 +6,7 @@
 - 📚 Pursuing Postgraduate Degree in Data Science and Machine Learning
 - 👨🏼‍💻 Mobile Front-end Engineer at hygia saúde
 - 🎯 Looking to learn more about React Native
-- 🥅 2022 Goals: <s>Become a mid-level developer</s> and publish an App
+- 🥅 2023 Goals: Complete ignite bootcamp of React Native
 
 ### Connect with me:
 
