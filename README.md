@@ -5,7 +5,7 @@
 - 🎓 BTech Degree in Systems Analysis and Development
 - 📚 Pursuing Postgraduate Degree in Data Science and Machine Learning
 - 👨🏼‍💻 Mobile Front-end Engineer at hygia saúde
-- 🎯 Looking to learn more about React Native
+- 🎯 Looking to learn more about React Native with TypeScript
 - 🥅 2023 Goals: Complete ignite bootcamp of React Native
 
 ### Connect with me:
