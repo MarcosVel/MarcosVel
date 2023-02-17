@@ -1,12 +1,12 @@
-## 👨🏼‍💻 Hi there, I'm [Marcos] 👋
+## Hi there, I'm [Marcos] 👋
 
-### I'm a student of ReactJS and Native ⚛️
+### I'm a Front-End Engineer 👨🏼‍💻
 
-- 🎓 BTech Degree in Systems Analysis and Development
-- 📚 Pursuing Postgraduate Degree in Data Science and Machine Learning
-- 👨🏼‍💻 Mobile Front-end Engineer at hygia saúde
+- 🎓 BTech degree in Systems Analysis and Development
+- 📚 Post-graduate student in Data Science and Machine Learning
+- 📱 Currently working as a Mobile Front-end Engineer at hygia saúde 
 - 🎯 Looking to learn more about React Native with TypeScript
-- 🥅 2023 Goals: Complete ignite bootcamp of React Native
+- 🥅 2023 Goals: Complete ignite bootcamp of React Native ⚛️
 
 ### Connect with me:
 
