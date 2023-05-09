@@ -4,7 +4,7 @@
 
 - 🎓 BTech degree in Systems Analysis and Development
 - 📚 Post-graduate student in Data Science and Machine Learning
-- 📱 Open to work as a Mobile Front-end Engineer
+- 📱 Working as a Mobile Front-end Engineer
 - 🎯 Looking to learn more about React Native with TypeScript
 - 🥅 2023 Goals: Complete ignite bootcamp of React Native ⚛️
 
