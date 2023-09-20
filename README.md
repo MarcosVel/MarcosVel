@@ -2,10 +2,9 @@
 
 ### I'm a Front-End Engineer 👨🏼‍💻
 
-- 🎓 BTech degree in Systems Analysis and Development
-- 📚 Post-graduate student in Data Science and Machine Learning
+- 🎓 Postgraduate degree in Data Science and Machine Learning
 - 📱 Working as a Mobile Front-end Engineer
-- 🎯 Looking to learn more about React Native with TypeScript
+- 🎯 Looking to learn more about React Native and Deep Learning
 - 🥅 2023 Goals: Complete ignite bootcamp of React Native ⚛️
 
 ### Connect with me:
@@ -42,4 +41,4 @@
 
 [Marcos]: https://www.linkedin.com/in/marcosveloso99/
 [linkedin]: https://www.linkedin.com/in/marcosveloso99/
-[instagram]: https://www.instagram.com/marcos.veloso23/
+[instagram]: https://www.instagram.com/marquin.veloso/
