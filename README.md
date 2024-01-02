@@ -5,7 +5,7 @@
 - 🎓 Postgraduate degree in Data Science and Machine Learning
 - 📱 Working as a Mobile Front-end Engineer
 - 🎯 Looking to learn more about React Native and Deep Learning
-- 🥅 2023 Goals: Complete ignite bootcamp of React Native ⚛️
+- 🥅 2024 Goals: Complete ignite bootcamp of React Native ⚛️
 
 ### Connect with me:
 
